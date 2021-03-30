@@ -1,3 +1,3 @@
 # example
 
-GoReleaser example using GitHub.
+GoReleaser example using GitHub and the new `gomod.proxy` settings.
